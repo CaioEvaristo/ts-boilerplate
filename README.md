@@ -1,2 +1,3 @@
-# ts-boilerplate
-This is a typescript boilerplate server with express
+# TS-boilerplate
+
+## Why?
