@@ -1,11 +1,3 @@
 {
-    "compilerOptions": {
-        "module": "commonjs",
-        "target": "ES2020",
-        "noImplicitAny": false,
-        "sourceMap": false,
-        "rootDir": "app",
-        "outDir": "dist"
-    },
-    "include": ["app", "node_modules/@types"]
+  "extends": "@tsconfig/node21/tsconfig.json"
 }
